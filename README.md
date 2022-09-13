@@ -6,4 +6,6 @@
 
 #### git hub 사용방법
 
+## Vim
+
 #### [vim치트시트](https://github.com/GwekDonghyeok/AIcontrol/blob/main/VIM%20Cheat%20Sheet%20%ED%95%9C%EA%B8%802.pdf)
