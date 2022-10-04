@@ -1,4 +1,4 @@
-<span style="color:red"> AIcontrol </span>
+<span style="color:red"># AIcontrol</span>
 
 ##### 1-B 곽동혁
 
