@@ -1,4 +1,10 @@
+<span style="color:red">
+
 # AIcontrol
+
+Red Font
+
+</span>
 
 ##### 1-B 곽동혁
 
