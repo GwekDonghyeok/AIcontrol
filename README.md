@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
 ## <strong>-인적사항</strong>
-<li><strong>인적사항</strong></li>
-
+<li>동부 초등학교졸업</li>
+<li>석동 중학교졸업</li>
+<li>진해 중앙고교졸업</li>
+<li>대구보건대 임상병리학 전공</li>
 
 
