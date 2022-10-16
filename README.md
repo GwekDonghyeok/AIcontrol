@@ -26,7 +26,11 @@
   </tr>
   <tr>
     <td>전기기능사</td>
-    <td> [x] : true</td>
+    <td>O</td>
+  </tr>
+    <tr>
+    <td>전기산업기사</td>
+    <td>X</td>
   </tr>
 
 </table>
