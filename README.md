@@ -10,10 +10,4 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 </br>
 <h3 align="center"><b>1-B곽동혁 </b></h3>
-## Git hub
-
-#### git hub 사용방법
-
-## Vim
-
-#### [vim치트시트](https://github.com/GwekDonghyeok/AIcontrol/blob/main/VIM%20Cheat%20Sheet%20%ED%95%9C%EA%B8%802.pdf)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
