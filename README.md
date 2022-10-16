@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1-B%20곽동혁&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Smart%20Factory%20DongHyeok&fontSize=60" />
 </p>
 
 <p align="center">
