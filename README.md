@@ -1,8 +1,3 @@
-<span style="color:red">AIcontrol</span>
-
-##### 1-B 곽동혁
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -15,6 +10,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
+<h3 align="center"><b>1-B </b></h3>
 ## Git hub
 
 #### git hub 사용방법
