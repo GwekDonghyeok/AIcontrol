@@ -19,3 +19,13 @@
 <li>대구보건대 임상병리학 전공</li>
 <li>현 창원 폴리텍대학 스마트팩토리학과 재학 중</li>
 
+## <strong>-자격증 취득현황</strong>
+<table>
+  <tr>
+    <td></td>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <td colspan="2">내용</td>
+  </tr>
+</table>
