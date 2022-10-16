@@ -21,11 +21,12 @@
 
 ## <strong>-자격증 취득현황</strong>
 <table>
-  <tr>
-    <td>전기기능사</td>
-    <td>내용</td>
-  </tr>
-  <tr>
+    <tr>
     <td colspan="2">내용</td>
   </tr>
+  <tr>
+    <td>전기기능사</td>
+    <td> [x] : true</td>
+  </tr>
+
 </table>
