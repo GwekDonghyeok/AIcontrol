@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=3000&section=header&text=1-B%20곽동혁&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1-B%20곽동혁&fontSize=30" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
