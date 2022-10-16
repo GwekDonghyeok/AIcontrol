@@ -22,7 +22,7 @@
 ## <strong>-자격증 취득현황</strong>
 <table>
   <tr>
-    <td></td>
+    <td>전기기능사</td>
     <td>내용</td>
   </tr>
   <tr>
