@@ -22,7 +22,7 @@
 ## <strong>-자격증 취득현황</strong>
 <table>
     <tr>
-    <td colspan="2">꼭 성공하자!</td>
+    <td colspan="2">-꼭 성공하자!-</td>
   </tr>
   <tr>
     <td>전기기능사</td>
