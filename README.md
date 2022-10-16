@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
 <ul>
-  <li>순서가 필요없는 서브 리스트</li>
+  <li>인적사항</li>
 
 
 
