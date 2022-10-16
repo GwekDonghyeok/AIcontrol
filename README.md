@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Smart%20Factory%20DongHyeok&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Smart%20Factory%20DongHyeokGwek&fontSize=40" />
 </p>
 
 <p align="center">
