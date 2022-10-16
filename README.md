@@ -9,4 +9,5 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 </br>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=1-%2곽동혁&fontSize=90" />
+<h3 align="center"><b>1-B곽동혁 </b></h3>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=2500&section=header&text=1-B%20곽동혁&fontSize=70" />
